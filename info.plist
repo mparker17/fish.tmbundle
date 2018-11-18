@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>zcnexre17@hfref.abercyl.tvguho.pbz</string>
+	<key>contactName</key>
+	<string>M Parker</string>
+	<key>description</key>
+	<string>Syntax highlighting for the Friendly Interactive Shell (fish).</string>
+	<key>name</key>
+	<string>fish</string>
+	<key>uuid</key>
+	<string>457B3E6D-0F56-4DDE-924E-230EFFBF2ECF</string>
+</dict>
+</plist>

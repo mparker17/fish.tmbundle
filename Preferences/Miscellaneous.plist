@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Miscellaneous</string>
+	<key>scope</key>
+	<string>source.fish</string>
+	<key>settings</key>
+	<dict>
+		<key>decreaseIndentPattern</key>
+		<string>\s*end\s*$</string>
+		<key>increaseIndentPattern</key>
+		<string>\s*begin|function\s*$</string>
+	</dict>
+	<key>uuid</key>
+	<string>6F4CDD35-F9A9-45F0-AAAC-59F506D4348E</string>
+</dict>
+</plist>
